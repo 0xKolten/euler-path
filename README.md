@@ -1,5 +1,5 @@
 # Euler_Path
-This is a C++ for finding a Euler Path in given graph data. 
+This is a C++ program for finding a Euler Path in given graph data. 
 
 There is some graph data provided in the repository and the code is written to handle data in the provided format. 
 To compile the code run 'make all' and to execute the code use './main <filename>'
